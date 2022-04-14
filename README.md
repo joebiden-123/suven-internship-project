@@ -1,1 +1,1 @@
-# suven-internship-project
+# Financial-Applications-using-Java-Coding-Projects
